@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SekmenAhmet
-- 👀 I’m interested in programminf
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning typescript
