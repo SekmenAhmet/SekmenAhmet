@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @SekmenAhmet
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning typescript
+- ahmetsekmen.fr
