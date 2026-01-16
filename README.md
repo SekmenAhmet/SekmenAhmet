@@ -50,10 +50,3 @@ But lately, I’ve been shifting my focus toward **low-level programming**, beca
 
 ## 📫 Contact
 🌍 Website: https://ahmetsekmen.fr
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SekmenAhmet&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SekmenAhmet&layout=compact&theme=tokyonight)
